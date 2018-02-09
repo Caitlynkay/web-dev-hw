@@ -2,7 +2,7 @@
 
 A Version Control System is a tool that allows a developer to make changes to a file and to track their changes. It is a software that keeps track of every modification made to the code in a database. We are using a Version Control System in this class because it allows us to see our own change history, to try things and know if they do or do not work well, and to easily go back to what we had working before. Our repositories can easily be integrated with GitHub.com, which will allow us to have built in distributed cloud back up for free, a free hosted webspace, and it allows us to easily see our work/code and track changes we have made during the weekly development cycle.
 
-My [responses](./notes.txt)
+My [responses](./responses.txt)
 
 Work Summary
 
