@@ -1,0 +1,4 @@
+* The internet sends data through something called packets. The packets then move through the network.
+*  An IP address is assigned to all computers so it can be identified on a given network. A DNS address is a Domain Name Service, which is a computer server that has a database of public IP addresses and their hostnames. It can be served to translate, or resolve common hostnames to IP addresses as requested.
+* Cookies are small files, that are stored on a user's computer. They are made to hold a limited amount of data specific to a certain user and website. That way, the server can deliver a page thats tailored for the user.
+* The three basic parts of a URL are, the protocol, the domain name and the path. 
