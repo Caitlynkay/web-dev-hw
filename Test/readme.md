@@ -2,4 +2,4 @@
 
 
 
-[coursenotes](./notes.txt)
+[course notes](./notes.txt)
