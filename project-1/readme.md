@@ -1,4 +1,4 @@
-#h1 Technical Report
+# Technical Report
 
 I use Safari on my iphone to surf the internet. But on my macbook, I use firefox. A web browser is a software program used to access internet from a device.
 
