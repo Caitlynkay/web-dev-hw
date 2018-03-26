@@ -6,10 +6,86 @@
 <meta name="author" content="Caitlyn Patel">
 <meta name="keywords" content="Form, Cake, Icecream, Shake, Sprinkles, Contact">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Contact form</title>
+<title>Fill out form</title>
 <style> Body{border: 20px solid pink}</style>
 </head>
 <body>
   <center>
-    <h1 style="color: pink">Contact us here!</h1>
-    
+    <h1 style="color: pink">Let's get to know each other better!</h1>
+    <h3> Fill out a form, so I can create more recipes for tailored for <i>you!</i></h3>
+<form id="feedback" action="#" method="get">
+    <p>
+      <label for="date_of_visit">
+        Date of visiting site
+        <input id="date_of_visit" name="date_of_visit" autofocus="" type="date">
+      </label>
+    </p>
+    <p>
+      <label>
+        What did you think of this recipe?
+        <input id="summary" name="summary" placeholder="i.e. so delicious" required="" type=
+        text>
+      </label>
+    </p>
+    <p>Any comments, questions or suggestions?</p>
+    <textarea id="lotsoftext" name="lotsoftext" rows="10" style="min-width: 100%"></textarea>
+    <fieldset>
+      <legend>Help me create more shake combinations!</legend>
+      What are your favorite ice cream flavors?
+      <br>
+      <label>
+      <input name="icecreamtype" value="Chocolate" type="checkbox">
+  Chocolate
+</label>
+  <br>
+  <label>
+  <input name="icecreamtype" value="Vanilla" type="checkbox">
+  Vanilla
+</label>
+  <br>
+  <label>
+  <input name="icecreamtype" value="Strawberry" type="checkbox">
+  Strawberry
+</label>
+  <br>
+  <label>
+  <inputname="icecreamtype" value="Mintchocolatechip" type="checkbox">
+  Mint Chocolate Chip
+</label>
+  <br>
+  <label>
+  <inputname="icecreamtype" value="Cookiedough" type="checkbox">
+  Cookie dough
+</label>
+  <br>
+  <label>
+  <inputname="icecreamtype" value="other" type="checkbox">
+  Other
+</label>
+  <br>
+  <p>
+  What tutorial would you like to see?
+    <input name="tutorial" value="Maltchocolate" type="radio">
+    Malt Chocolate
+    <br>
+    <input name="tutorial" value="Strawberryshortcake" type="radio">
+    Strawberry shortcake
+    <br>
+    <input name="tutorial" value="Vanillachocolate" type="radio">
+    Vanilla Chocolate Swirl
+    <br>
+    <input name="tutorial" value="Mintchocolatecookiedough" type="radio">
+    Mint Chocolate Chip Cookie Dough
+    <br>
+  </p>
+</fieldset>
+<p>
+  <label>
+  Where are you from?
+  <input id="summary" name="summary" placeholder="i.e. Missoula MT" required="" type="text">
+</label>
+</p>
+</form>
+</div>
+</body>
+</html>
