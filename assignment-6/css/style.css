@@ -1,0 +1,45 @@
+.main-container {
+    border-style: solid;
+    border-width: 4px;
+    border-color: purple;
+
+    padding: 10px;
+
+    background: #373E42;
+}
+
+h1 {
+
+    border-style: solid;
+    border-width: 1px;
+    border-color: teal;
+    /* Set a unique background color. */
+    background: #f1f1f1;
+}
+
+/* Select ALL paragraph elements. */
+p {
+    border-style: solid;
+    border-width: 2px;
+    border-color: pink;
+    background: #f1f1f1;
+}
+
+/* Select the strong AND emphasized elements. */
+strong, em {
+    border-style: solid;
+    border-width: 2px;
+    border-color: pink;
+}
+
+em {
+    color: purple;
+}
+
+hr {
+  margin: 30px 0;
+}
+
+.secondary-container {
+
+}
