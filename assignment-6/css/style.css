@@ -5,7 +5,7 @@
 
     padding: 10px;
 
-    background: #373E42;
+    background: #FF00FF;
 }
 
 h1 {
@@ -13,19 +13,16 @@ h1 {
     border-style: solid;
     border-width: 1px;
     border-color: teal;
-    /* Set a unique background color. */
-    background: #f1f1f1;
+    background: #00FA9A;
 }
 
-/* Select ALL paragraph elements. */
 p {
     border-style: solid;
     border-width: 2px;
     border-color: pink;
-    background: #f1f1f1;
+    background: #00FA9A;
 }
 
-/* Select the strong AND emphasized elements. */
 strong, em {
     border-style: solid;
     border-width: 2px;
