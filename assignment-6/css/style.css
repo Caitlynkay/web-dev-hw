@@ -23,5 +23,15 @@ hr {
 }
 
 .secondary-container {
+{
 
+}
+.styled {
+  /* Targets ANY element with the "styled" class. */
+   color: purple;
+}
+
+p.styled {
+  /* Targets ONLY paragraphs with the "styled" class. */
+   border: 2px solid teal;
 }
