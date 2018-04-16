@@ -1,7 +1,9 @@
+/* This is what the whole background besides the containers will be. */
 body {
    background-color: #9932CC;
    padding: 10px;
 }
+/* This is the main-container */
 .main-container {
     border-style: dotted;
     border-width: 12px;
@@ -27,7 +29,7 @@ em {
 hr {
   margin: 30px 0;
 }
-
+/* This is the second part of the page. */
 .secondary-container {
   border-style: solid;
   border-width: 10px;
