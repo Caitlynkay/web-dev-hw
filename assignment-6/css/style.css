@@ -1,9 +1,9 @@
 .main-container {
     border-style: dotted;
-    border-width: 6px;
+    border-width: 12px;
     border-color: purple;
 
-    padding: 10px;
+    padding: 12px;
     background: #fffc37;
 }
 h1 {
