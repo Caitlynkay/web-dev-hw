@@ -6,6 +6,9 @@
     padding: 10px;
     background: #fffc37;
 }
+h1 {
+  color: pink;
+}
 
 strong, em {
     border-style: solid;
