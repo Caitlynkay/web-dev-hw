@@ -18,8 +18,23 @@ a:visited {
 }
 
 @font-face {
-font-family: 'Playfair Display' , serif;
-src: url('#') format('...');
-font-weight: ;
-font-style: ;
+font-family: 'Playfair Display';
+src: url('../fonts/PlayfairDisplay-Regular.ttf') format('truetype');
+font-weight: 400;
+font-style: 400;
+}
+@font-face {
+font-family: 'SourceSerifPro';
+src: url('../fonts/SourceSerifPro-Regular.ttf') format('truetype');
+font-weight: 400;
+font-style: 400;
+}
+
+h1 {
+   color: darkorange;
+   size: 2em;
+}
+.one {
+   font-family: 'Playfair Display', sans-serif;
+   font-weight: normal;
 }
