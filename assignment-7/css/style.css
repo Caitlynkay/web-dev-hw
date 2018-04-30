@@ -1,0 +1,14 @@
+.main-container {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    padding: 10px;
+    background: #8000000;
+}
+/* Select ALL paragraph elements. */
+p {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    background: #8000000;
+}
