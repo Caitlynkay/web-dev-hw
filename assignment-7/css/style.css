@@ -6,16 +6,20 @@
     background-color: #4b0066;
     color: #fff;
 }
-
 a {
   text-decoration: none;
   color: orange;
 }
-
 a:hover {
   color: white;
 }
-
 a:visited {
   color: #0000ff;
+}
+
+@font-face {
+font-family: 'Playfair Display' , serif;
+src: url('#') format('...');
+font-weight: ;
+font-style: ;
 }
