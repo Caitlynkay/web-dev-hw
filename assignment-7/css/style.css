@@ -51,7 +51,7 @@ a {
   color: orange;
 }
 a:hover {
-  color: white;
+  color: black;
 }
 a:visited {
   color: #darkorange;
