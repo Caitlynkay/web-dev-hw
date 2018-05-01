@@ -9,4 +9,4 @@ Web hosting companies often charge extra if you use a lot of bandwidth, and due 
 ### Work Cycle
 For this assignment, I started how I usually start; by checking moodle and going through all of the materials. I first go through Module project 2, topic 6. I then, downloaded the A5 materials. I started my index.html, and went through each step. Eventually after I finished all of the steps, I went through my live page, and went back and fixed any mistakes. It was really exciting putting my assignment together, I loved how it turned out.
 
-![alt text](./images/screenshot.png)
+![alt text](./images/screenshot.png) 
