@@ -6,16 +6,6 @@
     background-color: #4b0066;
     color: #fff;
 }
-a {
-  text-decoration: none;
-  color: orange;
-}
-a:hover {
-  color: white;
-}
-a:visited {
-  color: #0000ff;
-}
 
 @font-face {
 font-family: 'Playfair Display';
@@ -47,4 +37,23 @@ h2 {
    font-family: 'Playfair Display', sans-serif;
    font-weight: normal;
    font-style: italic;
+}
+h3 {
+  color: darkorange;
+  size: 2em
+}
+.one {
+   font-family: 'Playfair Display', sans-serif;
+   font-weight: normal;
+   font-style: normal;
+ }
+a {
+  text-decoration: none;
+  color: orange;
+}
+a:hover {
+  color: white;
+}
+a:visited {
+  color: #0000ff;
 }
