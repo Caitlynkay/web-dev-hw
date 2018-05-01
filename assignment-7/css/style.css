@@ -23,11 +23,13 @@ h1 {
    color: darkorange;
    size: 2em;
 }
-.one {
+body {
    font-family: 'Playfair Display', sans-serif;
-   font-weight: bold;
-   text-align: center;
-   font-style: normal;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+  font-style: normal;
 }
 h2 {
   color: darkorange;
