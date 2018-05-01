@@ -6,9 +6,6 @@
     background-color: #4b0066;
     color: #fff;
 }
-.change-01 {
-  line-height: 1.45em;
-}
 @font-face {
 font-family: 'Playfair Display';
 src: url('../fonts/PlayfairDisplay-Regular.ttf') format('truetype');
@@ -29,6 +26,7 @@ h1 {
 .one {
    font-family: 'Playfair Display', sans-serif;
    font-weight: bold;
+   text-align: center;
    font-style: normal;
 }
 h2 {
@@ -38,6 +36,7 @@ h2 {
 .two {
    font-family: 'Playfair Display', sans-serif;
    font-weight: normal;
+   text-align: center;
    font-style: italic;
 }
 h3 {
@@ -47,6 +46,7 @@ h3 {
 .three {
    font-family: 'Playfair Display', sans-serif;
    font-weight: normal;
+   text-align: center;
    font-style: normal;
  }
 a {
