@@ -6,14 +6,6 @@
     background-color: #4b0066;
     color: #fff;
 }
-p {
-  font-family: 'SourceSerifPro';
-  font-size: 1em;
-  color: darkorange;
-  text-align: center;
-  margin: 0.5em;
-}
-
 @font-face {
 font-family: 'Playfair Display';
 src: url('../fonts/PlayfairDisplay-Regular.ttf') format('truetype');
@@ -40,7 +32,7 @@ h2 {
   color: darkorange;
   size: 2em
 }
-.one {
+.two {
    font-family: 'Playfair Display', sans-serif;
    font-weight: normal;
    font-style: italic;
@@ -49,7 +41,7 @@ h3 {
   color: darkorange;
   size: 2em
 }
-.one {
+.three {
    font-family: 'Playfair Display', sans-serif;
    font-weight: normal;
    font-style: normal;
