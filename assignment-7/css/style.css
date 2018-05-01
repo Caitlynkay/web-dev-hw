@@ -6,6 +6,9 @@
     background-color: #4b0066;
     color: #fff;
 }
+.change-01 {
+  line-height: 1.45em;
+}
 @font-face {
 font-family: 'Playfair Display';
 src: url('../fonts/PlayfairDisplay-Regular.ttf') format('truetype');
