@@ -53,6 +53,7 @@ h3 {
  }
 a {
   text-decoration: none;
+  border: solid 1px #white; 
   color: orange;
 }
 a:hover {
