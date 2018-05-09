@@ -2,8 +2,8 @@ body {
 background-color: #fdfdf1;
 }
 
-#top-r {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+#topright {
+	font-family: Cambria, "Times New Roman", serif;
 	font-size: 30px;
 	font-style: italic;
 	color: #303F44;
@@ -13,8 +13,8 @@ background-color: #fdfdf1;
 	top: 28px;
 	rotation: 12;
 }
-#top-L {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+#topleft {
+	font-family: Cambria, "Times New Roman", serif;
 	font-size: 30px;
 	font-style: italic;
 	color: #303F44;
@@ -24,8 +24,8 @@ background-color: #fdfdf1;
 	width: 267px;
 	rotation: -12;
 }
-#top-m {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+#topmiddle {
+	font-family: Cambria, "Times New Roman", serif;
 	font-size: 20px;
 	font-style: italic;
 	color: #303F44;
@@ -40,8 +40,8 @@ background-color: #fdfdf1;
 	left: 111px;
 	top: 2px;
 }
-#Queen {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+#filterqueen {
+	font-family: Cambria, "Times New Roman", serif;
 	font-size: 20px;
 	color: #FFFFFF;
 	background-color: #303F44;
@@ -52,7 +52,7 @@ background-color: #fdfdf1;
 	top: 186px;
 }
 #text-1 {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-family: Cambria, "Times New Roman", serif;
 	font-size: 10px;
 	color: #303F44;
 	position: absolute;
@@ -72,8 +72,8 @@ background-color: #fdfdf1;
 	font-size: 40px;
 	position: absolute;
 	color: #ED1701;
-	left: 673px;
-	top: 322px;
+	left: 675px;
+	top: 325px;
 }
 .Icons1{
 	position: absolute;
@@ -108,7 +108,7 @@ background-color: #fdfdf1;
 	width: 219px;
 }
 .text2 {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-family: Cambria, "Times New Roman", serif;
 	font-size: 10px;
 	color: #303f44;
 	position: absolute;
@@ -117,7 +117,7 @@ background-color: #fdfdf1;
 	width: 270px;
 }
 .text3 {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-family: Cambria, "Times New Roman", serif;
 	font-size: 10px;
 	color: #303f44;
 	position: absolute;
@@ -126,7 +126,7 @@ background-color: #fdfdf1;
 	width: 270px;
 }
 .text4 {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-family: Cambria, "Times New Roman", serif;
 	font-size: 10px;
 	color: #303f44;
 	position: absolute;
@@ -140,7 +140,7 @@ background-color: #fdfdf1;
 	top: 785px;
 }
 .info-text {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-family: Cambria, "Times New Roman" serif;
 	font-size: 20px;
 	color: #303F44;
 	position: absolute;
@@ -148,13 +148,13 @@ background-color: #fdfdf1;
 	top: 752px;
 	width: 417px;
 	height: 228px;
-	vertical-align: 39pt;
+	vertical-align: 40pt;
 	white-space: pre;
 	line-height: 2;
 	text-align: justify;
 }
 .head1 {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-family: Cambria, "Times New Roman", serif;
 	font-size: 9px;
 	position: absolute;
 	font-style: italic;
@@ -164,7 +164,7 @@ background-color: #fdfdf1;
 	width: 426px;
 }
 .sidetext {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-family: Cambria, "Times New Roman", serif;
 	position: absolute;
 	font-size: 20px;
 	color: #303F44;
@@ -178,8 +178,9 @@ background-color: #fdfdf1;
 	left: 29px;
 	top: 1240px;
 }
+
 .head2 {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-family: Cambria, "Times New Roman", serif;
 	font-size: 9px;
 	position: absolute;
 	font-style: italic;
@@ -190,7 +191,7 @@ background-color: #fdfdf1;
 }
 
 .sidetext2 {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-family: Cambria, "Times New Roman", serif;
 	position: absolute;
 	font-size: 20px;
 	color: #303F44;
@@ -201,17 +202,24 @@ background-color: #fdfdf1;
 }
 .logo {
 	position: absolute;
-	left: 433px;
-	top: 1261px;
+	left: 432px;
+	top: 1260px;
 }
-
-
-.mail {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
-	color: #303F44;
-	border: medium dashed #303F44;
-	position: absolute;
-	left: 512px;
-	top: 1563px;
-	width: 491px;
+.coupon {
+  position: absolute;
+  left: 525px;
+  top: 1575px;
+  width: 356;
+  height: 199;
+  z-index: 1;
+  padding-left: 10px;
+  border: 2px dashed black;
+}
+.guarantee{
+  position: absolute;
+  left: 600;
+  top: 1450;
+  width: 300;
+  height: 100;
+  z-index: 2;
 }
