@@ -163,16 +163,7 @@ background-color: #fdfdf1;
 	top: 1050px;
 	width: 426px;
 }
-.sidetext {
-	font-family: "Times New Roman", serif;
-	position: absolute;
-	font-size: 20px;
-	color: #303F44;
-	left: 25px;
-	top: 1085px;
-	width: 445px;
-	height: 155px;
-}
+
 .photo {
 	position: absolute;
 	left: 30px;
@@ -189,7 +180,16 @@ background-color: #fdfdf1;
 	top: 1535px;
 	width: 425px;
 }
-
+.sidetext {
+	font-family: "Times New Roman", serif;
+	position: absolute;
+	font-size: 20px;
+	color: #303F44;
+	left: 25px;
+	top: 1085px;
+	width: 445px;
+	height: 155px;
+}
 .sidetext2 {
 	font-family: "Times New Roman", serif;
 	position: absolute;
