@@ -19,9 +19,9 @@ background-color: #fdfdf1;
 	font-style: italic;
 	color: #303F44;
 	position: absolute;
-	left: 596px;
-	top: 27px;
-	width: 267px;
+	left: 595px;
+	top: 25px;
+	width: 265px;
 	rotation: -12;
 }
 #topmiddle {
@@ -31,8 +31,8 @@ background-color: #fdfdf1;
 	color: #303F44;
 	position: absolute;
 	left: 400px;
-	top: 97px;
-	width: 679px;
+	top: 98px;
+	width: 680px;
 }
 .woman {
 	z-index: 3;
@@ -46,10 +46,10 @@ background-color: #fdfdf1;
 	color: #FFFFFF;
 	background-color: #303F44;
 	height: 75px;
-	width: 339px;
+	width: 340px;
 	position: absolute;
-	left: 443px;
-	top: 186px;
+	left: 444px;
+	top: 185px;
 }
 #text-1 {
 	font-family: "Times New Roman", serif;
@@ -111,21 +111,21 @@ background-color: #fdfdf1;
 	color: #ED1701;
 	left: 669px;
 	top: 605px;
-	width: 219px;
+	width: 220px;
 }
 .Icons {
 	position: absolute;
 	left: 460px;
 	top: 345px;
 	width: 202px;
-	height: 151px;
+	height: 150px;
 }
 .Icons1 {
 	position: absolute;
 	left: 456px;
 	top: 467px;
 	width: 202px;
-	height: 151px;
+	height: 150px;
 }
 .Icons2 {
 	position: absolute;
@@ -145,8 +145,8 @@ background-color: #fdfdf1;
 	color: #303F44;
 	position: absolute;
 	left: 525px;
-	top: 752px;
-	width: 417px;
+	top: 755px;
+	width: 415px;
 	height: 228px;
 	vertical-align: 40pt;
 	white-space: pre;
@@ -169,25 +169,25 @@ background-color: #fdfdf1;
 	font-size: 20px;
 	color: #303F44;
 	left: 25px;
-	top: 1087px;
-	width: 444px;
-	height: 152px;
+	top: 1085px;
+	width: 445px;
+	height: 155px;
 }
 .photo {
 	position: absolute;
-	left: 29px;
+	left: 30px;
 	top: 1240px;
 }
 
 .head2 {
 	font-family: "Times New Roman", serif;
-	font-size: 9px;
+	font-size: 10px;
 	position: absolute;
 	font-style: italic;
 	color: #303F44;
-	left: 27px;
-	top: 1533px;
-	width: 426px;
+	left: 25px;
+	top: 1535px;
+	width: 425px;
 }
 
 .sidetext2 {
@@ -195,10 +195,10 @@ background-color: #fdfdf1;
 	position: absolute;
 	font-size: 20px;
 	color: #303F44;
-	left: 27px;
-	top: 1574px;
-	width: 444px;
-	height: 152px;
+	left: 28px;
+	top: 1575px;
+	width: 445px;
+	height: 150px;
 }
 .logo {
 	position: absolute;
@@ -209,11 +209,11 @@ background-color: #fdfdf1;
   position: absolute;
   left: 525px;
   top: 1575px;
-  width: 356;
-  height: 199;
+  width: 355;
+  height: 200;
   z-index: 1;
   padding-left: 10px;
-  border: 2px dashed black;
+  border: 4px dashed black;
 }
 .guarantee{
   position: absolute;
