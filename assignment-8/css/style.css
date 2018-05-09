@@ -13,6 +13,16 @@ background-color: #fdfdf1;
 	top: 30px;
 	rotation: 12;
 }
+#topmiddle {
+	font-family: "Times New Roman", serif;
+	font-size: 20px;
+	font-style: italic;
+	color: #303F44;
+	position: absolute;
+	left: 400px;
+	top: 98px;
+	width: 680px;
+}
 #topleft {
 	font-family: "Times New Roman", serif;
 	font-size: 30px;
@@ -23,16 +33,6 @@ background-color: #fdfdf1;
 	top: 25px;
 	width: 265px;
 	rotation: -12;
-}
-#topmiddle {
-	font-family: "Times New Roman", serif;
-	font-size: 20px;
-	font-style: italic;
-	color: #303F44;
-	position: absolute;
-	left: 400px;
-	top: 98px;
-	width: 680px;
 }
 .woman {
 	z-index: 3;
@@ -139,7 +139,7 @@ background-color: #fdfdf1;
 	left: 28px;
 	top: 785px;
 }
-.info-text {
+.info-txt {
 	font-family: "Times New Roman" serif;
 	font-size: 20px;
 	color: #303F44;
